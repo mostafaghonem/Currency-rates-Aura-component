@@ -1,2 +1,2 @@
 # Currency-rates-Aura-component
-Foreign exchange rates and currency Aura Component
+**An Aura Component to get Foreign exchange rates and currency.**
